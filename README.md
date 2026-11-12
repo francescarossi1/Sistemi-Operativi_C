@@ -38,7 +38,7 @@ cd Sistemi-Operativi_C
 
 ```bash
 cd Lab04
-gcc -Wall -Wextra nome_programma.c -o nome_programma
+gcc nome_programma.c -o nome_programma
 ./nome_programma
 ```
 
