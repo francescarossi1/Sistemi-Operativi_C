@@ -18,36 +18,45 @@
 ```text
 Sistemi-Operativi_C/
 └── 📁 Lab04/
+```
+<!-- TREE_END -->
 
+---
 
-<h2 id="istruzioni-di-compilazione-ed-esecuzione">🛠️ Istruzioni di Compilazione ed Esecuzione</h2>
+## 🛠️ Istruzioni di Compilazione ed Esecuzione
 
-<h3>1. Clonare il repository</h3>
-<pre><code>git clone [https://github.com/francescarossi1/Sistemi-Operativi_C.git](https://github.com/francescarossi1/Sistemi-Operativi_C.git)
-cd Sistemi-Operativi_C</code></pre>
+### 1. Clonare il repository
 
-<h3>2. Esecuzione degli Script e Comandi Shell</h3>
+```bash
+git clone [https://github.com/francescarossi1/Sistemi-Operativi_C.git](https://github.com/francescarossi1/Sistemi-Operativi_C.git)
+cd Sistemi-Operativi_C
+```
 
-<h4>🔹 In Bash / Shell Linux</h4>
-<pre><code>cd Lab04
+### 2. Compilazione ed Esecuzione dei programmi in C
+
+🔹 **In Bash / Shell Linux (usando GCC)**
+
+```bash
+cd Lab04
 gcc -Wall -Wextra nome_programma.c -o nome_programma
-./nome_programma</code></pre>
+./nome_programma
+```
 
-<hr />
+---
 
-<h2 id="autore">👤 Autore</h2>
+## 👤 Autore
 
 <table>
   <tr>
     <td align="center" width="150">
-      <img src="https://github.com/francescarossi1.png" width="100" height="100" style="border-radius: 50%;" alt="Francesca Rossi Avatar"><br />
+      <img src="https://github.com/francescarossi1.png" width="100" height="100" style="border-radius: 50%;" alt="Francesca Rossi"/><br />
       <b>Francesca Rossi</b>
     </td>
     <td>
       <p><b>Studente / Developer</b></p>
-      <p>Repository per raccogliere gli esercizi del corso di Sistemi Operativi.</p>
+      <p>Repository per raccogliere gli esercizi in linguaggio C del corso di Sistemi Operativi.</p>
       <a href="https://github.com/francescarossi1">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
       </a>
     </td>
   </tr>
