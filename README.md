@@ -20,7 +20,8 @@ Sistemi-Operativi_C/
 ├── 📁 Lab04/
 │   ├── 📄 anteprima.c
 │   ├── 📄 cerca.c
-│   └── 📄 copy_input.c
+│   ├── 📄 copy_input.c
+│   └── 📄 Lab04-spiegazione.pdf
 ├── 📁 Lab05/
 │   ├── 📄 Lab05-es01-itercounter.c
 │   ├── 📄 Lab05-es02-figliCounter.c
