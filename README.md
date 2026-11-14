@@ -17,7 +17,17 @@
 <!-- TREE_START -->
 ```text
 Sistemi-Operativi_C/
-└── 📁 Lab04/
+├── 📁 Lab04/
+│   ├── 📄 anteprima.c
+│   ├── 📄 cerca.c
+│   └── 📄 copy_input.c
+├── 📁 Lab05/
+│   ├── 📄 Lab05-es01-itercounter.c
+│   ├── 📄 Lab05-es02-figliCounter.c
+│   ├── 📄 Lab05-es03-cercaCarFile-sigaction.c
+│   ├── 📄 Lab05-es03-cercaCarFile-signal.c
+│   └── 📄 Lab05-spiegazione.pdf
+└── 📄 README.md
 ```
 <!-- TREE_END -->
 
